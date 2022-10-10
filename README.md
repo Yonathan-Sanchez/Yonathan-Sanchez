@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![yonthan-sancez's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourUserName)](https://github.com/yonathan-sanchez/github-readme-stats)
+[![yonathan-sanchez's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonathan-sanchez)](https://github.com/yonathan-sanchez/github-readme-stats)
+
+[![yonathan-sanchez's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonathan-sanchez)](https://github.com/yonathan-sanchez/github-readme-stats)
 
 <!--
 **Yonathan-Sanchez/Yonathan-Sanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
