@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![yonathan-sanchez's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonathan-sanchez)](https://github.com/yonathan-sanchez/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonathan-sanchez&layout=compact)](https://github.com/yonathan-sanchez/github-readme-stats)
 
 [![yonathan-sanchez's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonathan-sanchez)](https://github.com/yonathan-sanchez/github-readme-stats)
 
